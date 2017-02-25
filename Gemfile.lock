@@ -225,3 +225,6 @@ DEPENDENCIES
   wicked
   will_paginate (~> 3.0.6)
   wirble
+
+BUNDLED WITH
+   1.14.3
